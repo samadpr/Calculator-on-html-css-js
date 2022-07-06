@@ -1,0 +1,45 @@
+.calc{
+    width: 400px;
+    height: 500px;
+    background: #87cee37a;
+    margin-left: 500px;
+    border-radius: 20px;
+    background: url(images/mybanner.jpg) no-repeat center;
+    background-size: cover;
+    
+    
+}
+#screen{
+    width: 80%;
+    margin-left: 36px;
+    height: 40px;
+    margin-top: 30px;
+    pointer-events: none;
+    border-radius: 10px;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background: #8d90efeb;
+    border-radius: 10px;
+    border-color: #8d90ef;
+    cursor: pointer;
+}
+.btnC{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background: #6787e1eb;
+    border-radius: 10px;
+    border-color: red;
+    cursor: pointer;
+}
+
+.main-body{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: rgba(34, 126, 180, 0.534);
+}
